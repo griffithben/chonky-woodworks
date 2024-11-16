@@ -24,10 +24,9 @@
     "contact": {
       "address": "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country",
       "body": "Leave us a message.",
-      "email": "nospam@example.com",
+      "email": "chonkywoodworks@gmail.com",
       "enable": true,
       "formspree_form_id": "example_invalid",
-      "phone": "+49 (0) 030 000 000",
       "subject": "New Submission!",
       "title": "Contact"
     },
@@ -99,14 +98,26 @@
         }
       ]
     },
-    "social": {
-      "dribble": "",
-      "facebook": "",
-      "github": "",
-      "instagram": "",
-      "mastodon": "",
-      "twitter": "",
-      "youtube": ""
+    "two": {
+      "enable": true,
+      "section": [
+        {
+          "body": "Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.",
+          "img": "img/pic01.jpg",
+          "img_alt": "blurry background: white/grey",
+          "title": "Magna primis lobortis<br />sed ullamcorper"
+        },
+        {
+          "body": "Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.",
+          "img": "img/pic02.jpg",
+          "title": "Tortor dolore feugiat<br />elementum magna"
+        },
+        {
+          "body": "Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.",
+          "img": "img/pic03.jpg",
+          "title": "Magna primis lobortis<br />sed ullamcorper"
+        }
+      ]
     },
     "three": {
       "body": "Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend\nfringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.\n",
@@ -145,26 +156,14 @@
         }
       ]
     },
-    "two": {
-      "enable": true,
-      "section": [
-        {
-          "body": "Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.",
-          "img": "img/pic01.jpg",
-          "img_alt": "blurry background: white/grey",
-          "title": "Magna primis lobortis<br />sed ullamcorper"
-        },
-        {
-          "body": "Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.",
-          "img": "img/pic02.jpg",
-          "title": "Tortor dolore feugiat<br />elementum magna"
-        },
-        {
-          "body": "Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.",
-          "img": "img/pic03.jpg",
-          "title": "Magna primis lobortis<br />sed ullamcorper"
-        }
-      ]
+    "social": {
+      "dribble": "",
+      "facebook": "",
+      "github": "",
+      "instagram": "",
+      "mastodon": "",
+      "twitter": "",
+      "youtube": ""
     }
   }
 }

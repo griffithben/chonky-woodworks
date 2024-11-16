@@ -1,0 +1,170 @@
+{
+  "baseURL": "https://example.org/",
+  "languageCode": "en-us",
+  "theme": "spectral",
+  "title": "Chonky Woodworks",
+  "languages": {
+    "de": {
+      "languageName": "Deutsch",
+      "weight": 10
+    },
+    "en": {
+      "languageName": "English",
+      "weight": 0
+    },
+    "es": {
+      "languageName": "Español",
+      "weight": 10
+    }
+  },
+  "params": {
+    "copyright": "Chonky Woodworks",
+    "description": "Chonky Woodworks Description",
+    "fancyTitle": "<img height=\"450\" src=\"/images/logo.png\" alt=\"Logo\"/>",
+    "contact": {
+      "address": "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country",
+      "body": "Leave us a message.",
+      "email": "nospam@example.com",
+      "enable": true,
+      "formspree_form_id": "example_invalid",
+      "phone": "+49 (0) 030 000 000",
+      "subject": "New Submission!",
+      "title": "Contact"
+    },
+    "custom_css": "modifications.css",
+    "cta": {
+      "body": "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla.",
+      "enable": true,
+      "title": "Arcue ut vel commodo",
+      "link": [
+        {
+          "href": "#",
+          "special": true,
+          "text": "Activate"
+        },
+        {
+          "href": "#",
+          "special": false,
+          "text": "Learn More"
+        }
+      ]
+    },
+    "menu": {
+      "main": [
+        {
+          "title": "Home",
+          "url": "/"
+        },
+        {
+          "title": "Posts",
+          "url": "/posts/"
+        },
+        {
+          "title": "Products",
+          "url": "/products"
+        },
+        {
+          "title": "Gallery",
+          "url": "/gallery"
+        },
+        {
+          "title": "About",
+          "url": "/about"
+        },
+        {
+          "title": "Contact",
+          "url": "/contact"
+        }
+      ]
+    },
+    "one": {
+      "body": "    Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend\n    fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.\n    ",
+      "enable": true,
+      "title": "Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec",
+      "icon": [
+        {
+          "icon": "fa-gem",
+          "label": "Lorem",
+          "style": "1"
+        },
+        {
+          "icon": "fa-heart",
+          "label": "Ipsum",
+          "style": "2"
+        },
+        {
+          "icon": "solid fa-code",
+          "label": "Dolor",
+          "style": "3"
+        }
+      ]
+    },
+    "social": {
+      "dribble": "",
+      "facebook": "",
+      "github": "",
+      "instagram": "",
+      "mastodon": "",
+      "twitter": "",
+      "youtube": ""
+    },
+    "three": {
+      "body": "Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend\nfringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.\n",
+      "enable": true,
+      "title": "Accumsan mus tortor nunc aliquet",
+      "feature": [
+        {
+          "body": "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.",
+          "icon": "fa-paper-plane",
+          "title": "Arcu accumsan"
+        },
+        {
+          "body": "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.",
+          "icon": "solid fa-laptop",
+          "title": "Ac Augue Eget"
+        },
+        {
+          "body": "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.",
+          "icon": "solid fa-code",
+          "title": "Foo bar"
+        },
+        {
+          "body": "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.",
+          "icon": "solid fa-headphones-alt",
+          "title": "Baz kram"
+        },
+        {
+          "body": "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.",
+          "icon": "fa-heart",
+          "title": "Some latin text"
+        },
+        {
+          "body": "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.",
+          "icon": "fa-flag",
+          "title": "Nothing important"
+        }
+      ]
+    },
+    "two": {
+      "enable": true,
+      "section": [
+        {
+          "body": "Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.",
+          "img": "img/pic01.jpg",
+          "img_alt": "blurry background: white/grey",
+          "title": "Magna primis lobortis<br />sed ullamcorper"
+        },
+        {
+          "body": "Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.",
+          "img": "img/pic02.jpg",
+          "title": "Tortor dolore feugiat<br />elementum magna"
+        },
+        {
+          "body": "Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.",
+          "img": "img/pic03.jpg",
+          "title": "Magna primis lobortis<br />sed ullamcorper"
+        }
+      ]
+    }
+  }
+}

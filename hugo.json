@@ -20,7 +20,7 @@
   "params": {
     "copyright": "Chonky Woodworks",
     "description": "Chonky Woodworks Description",
-    "fancyTitle": "<img height=\"450\" src=\"/images/logo.png\" alt=\"Logo\"/>",
+    "fancyTitle": "<img height=\"450\" src=\"images/logo.png\" alt=\"Logo\"/>",
     "contact": {
       "address": "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country",
       "body": "Leave us a message.",

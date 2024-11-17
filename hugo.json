@@ -19,35 +19,18 @@
   },
   "params": {
     "copyright": "Chonky Woodworks",
-    "description": "Chonky Woodworks Description",
+    "description": "Everyone Needs Something Chonky",
     "fancyTitle": "<img src='images/logo.png' alt='Logo' style='width: 100%; max-width: 500px;'/>",
     "contact": {
-      "address": "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country",
+      "address": "",
       "body": "Leave us a message.",
       "email": "chonkywoodworks@gmail.com",
       "enable": true,
-      "formspree_form_id": "example_invalid",
-      "subject": "New Submission!",
+      "formspree_form_id": "xjkvovzg",
+      "subject": "New Website Message",
       "title": "Contact"
     },
     "custom_css": "modifications.css",
-    "cta": {
-      "body": "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla.",
-      "enable": true,
-      "title": "Arcue ut vel commodo",
-      "link": [
-        {
-          "href": "#",
-          "special": true,
-          "text": "Activate"
-        },
-        {
-          "href": "#",
-          "special": false,
-          "text": "Learn More"
-        }
-      ]
-    },
     "menu": {
       "main": [
         {
@@ -77,45 +60,23 @@
       ]
     },
     "one": {
-      "body": "    Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend\n    fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.\n    ",
-      "enable": true,
-      "title": "Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec",
-      "icon": [
-        {
-          "icon": "fa-gem",
-          "label": "Lorem",
-          "style": "1"
-        },
-        {
-          "icon": "fa-heart",
-          "label": "Ipsum",
-          "style": "2"
-        },
-        {
-          "icon": "solid fa-code",
-          "label": "Dolor",
-          "style": "3"
-        }
-      ]
+      "title": "Welcome to Chonky Woodworks",
+      "body": "At Chonky Woodworks, we create handcrafted pieces designed to bring beauty and functionality into your home. From stunning cutting boards and cheese boards to elegant wooden and epoxy side tables, each item is crafted with care, precision, and an eye for detail. Let us help you add a touch of timeless charm to your space!",
+      "enable": true
     },
     "two": {
       "enable": true,
       "section": [
         {
-          "body": "Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.",
-          "img": "img/pic01.jpg",
-          "img_alt": "blurry background: white/grey",
-          "title": "Magna primis lobortis<br />sed ullamcorper"
+          "title": "Cutting Boards",
+          "body": "Our cutting boards are crafted from premium hardwoods like walnut, maple, purple heart, and padauk, ensuring both durability and timeless beauty. Perfect for daily use or as a standout centerpiece, each board is designed to elevate your kitchen experience.",
+          "img": "images/cuttingboards.jpg",
+          "img_alt": "blurry background: white/grey"
         },
         {
-          "body": "Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.",
-          "img": "img/pic02.jpg",
-          "title": "Tortor dolore feugiat<br />elementum magna"
-        },
-        {
-          "body": "Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.",
-          "img": "img/pic03.jpg",
-          "title": "Magna primis lobortis<br />sed ullamcorper"
+          "title": "Epoxy Tables",
+          "body": "Our side tables combine craftsmanship and high-quality materials to create functional works of art. Made with beautiful hardwoods or striking epoxy accents, these tables add a unique touch to any space.",
+          "img": "images/epoxysidetable.jpg"
         }
       ]
     },
@@ -153,6 +114,23 @@
           "body": "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.",
           "icon": "fa-flag",
           "title": "Nothing important"
+        }
+      ]
+    },
+    "cta": {
+      "body": "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla.",
+      "enable": true,
+      "title": "Arcue ut vel commodo",
+      "link": [
+        {
+          "href": "#",
+          "special": true,
+          "text": "Activate"
+        },
+        {
+          "href": "#",
+          "special": false,
+          "text": "Learn More"
         }
       ]
     },

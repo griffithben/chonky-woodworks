@@ -20,7 +20,7 @@
       <link>http://localhost:1313/products/henry-side-table/</link>
       <pubDate>Sat, 16 Nov 2024 14:57:57 -0600</pubDate>
       <guid>http://localhost:1313/products/henry-side-table/</guid>
-      <description></description>
+      <description>asdf</description>
     </item>
     <item>
       <title>About</title>
@@ -28,13 +28,6 @@
       <pubDate>Sat, 16 Nov 2024 14:30:20 -0600</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Sat, 09 Nov 2024 16:58:18 -0600</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

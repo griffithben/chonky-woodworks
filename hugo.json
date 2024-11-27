@@ -1,7 +1,7 @@
 {
   "baseURL": "https://example.org/",
   "languageCode": "en-us",
-  "theme": "spectral",
+  "theme": "spectral-custom",
   "title": "Chonky Woodworks",
   "languages": {
     "de": {
@@ -21,6 +21,8 @@
     "copyright": "Chonky Woodworks",
     "description": "Everyone Needs Something Chonky",
     "fancyTitle": "<img src='images/logo.png' alt='Logo' style='width: 100%; max-width: 500px;'/>",
+    "subtitle": "Handcrafted Woodworks",
+    "image": "images/logo.png",
     "contact": {
       "address": "",
       "body": "Leave us a message.",
@@ -36,10 +38,6 @@
         {
           "title": "Home",
           "url": "/"
-        },
-        {
-          "title": "Posts",
-          "url": "/posts/"
         },
         {
           "title": "Products",
@@ -81,39 +79,24 @@
       ]
     },
     "three": {
-      "body": "Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend\nfringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.\n",
+      "title": "Some things to know about us",
+      "body": "We take pride in crafting high-quality, handcrafted pieces while staying committed to thoughtful design and attention to detail.",
       "enable": true,
-      "title": "Accumsan mus tortor nunc aliquet",
       "feature": [
         {
-          "body": "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.",
-          "icon": "fa-paper-plane",
-          "title": "Arcu accumsan"
+          "title": "Built to Last",
+          "body": "Our pieces are made with durable materials and careful craftsmanship to ensure they hold up over time.",
+          "icon": "fa-flag"
         },
         {
-          "body": "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.",
-          "icon": "solid fa-laptop",
-          "title": "Ac Augue Eget"
+          "title": "Quality Materials",
+          "body": "We carefully select premium hardwoods and materials to ensure every piece is as durable as it is beautiful.",
+          "icon": "fa-heart"
         },
         {
-          "body": "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.",
-          "icon": "solid fa-code",
-          "title": "Foo bar"
-        },
-        {
-          "body": "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.",
-          "icon": "solid fa-headphones-alt",
-          "title": "Baz kram"
-        },
-        {
-          "body": "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.",
-          "icon": "fa-heart",
-          "title": "Some latin text"
-        },
-        {
-          "body": "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.",
-          "icon": "fa-flag",
-          "title": "Nothing important"
+          "title": "Local Pickups",
+          "body": "At this time, all orders are available for local pickup in Columbia, MO. Thank you for understanding!",
+          "icon": "fa-paper-plane"
         }
       ]
     },

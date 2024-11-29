@@ -1,6 +1,6 @@
 +++
 date = '2024-11-16T14:57:57-06:00'
-draft = true
+draft = false
 title = 'Wally'
 type = 'Side Table'
 summary = 'Handcrafted walnut and oak side table with black metal hexagonal legs and a coaster made from walnut, maple, and purple heart.'

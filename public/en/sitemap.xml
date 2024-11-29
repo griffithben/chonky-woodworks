@@ -29,14 +29,14 @@
     <loc>http://localhost:1313/products/</loc>
     <lastmod>2024-11-16T14:57:57-06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/products/tiger-side-table/</loc>
+    <lastmod>2024-11-16T14:57:57-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/wally-side-table/</loc>
+    <lastmod>2024-11-16T14:57:57-06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-11-16T14:30:20-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2024-11-09T16:58:18-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-11-09T16:58:18-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <xhtml:link

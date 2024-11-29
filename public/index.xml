@@ -16,25 +16,32 @@
       <description></description>
     </item>
     <item>
-      <title>Henry Side Table</title>
+      <title>Henry</title>
       <link>http://localhost:1313/products/henry-side-table/</link>
       <pubDate>Sat, 16 Nov 2024 14:57:57 -0600</pubDate>
       <guid>http://localhost:1313/products/henry-side-table/</guid>
-      <description></description>
+      <description>Handcrafted black walnut and epoxy side table with blue swirls, metal hairpin legs, and a walnut, maple, and purple heart coaster</description>
+    </item>
+    <item>
+      <title>Tiger</title>
+      <link>http://localhost:1313/products/tiger-side-table/</link>
+      <pubDate>Sat, 16 Nov 2024 14:57:57 -0600</pubDate>
+      <guid>http://localhost:1313/products/tiger-side-table/</guid>
+      <description>Handcrafted black walnut and epoxy side table with black and gold swirls, mid-century modern legs, and a walnut, maple, and purple heart coaster.</description>
+    </item>
+    <item>
+      <title>Wally</title>
+      <link>http://localhost:1313/products/wally-side-table/</link>
+      <pubDate>Sat, 16 Nov 2024 14:57:57 -0600</pubDate>
+      <guid>http://localhost:1313/products/wally-side-table/</guid>
+      <description>Handcrafted walnut and oak side table with black metal hexagonal legs and a coaster made from walnut, maple, and purple heart.</description>
     </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Sat, 16 Nov 2024 14:30:20 -0600</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Sat, 09 Nov 2024 16:58:18 -0600</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <description>&lt;div class=&#34;row&#34;&gt;&#xA;    &lt;div class=&#34;column images&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/ben.jpg&#34; alt=&#34;Ben&#34; class=&#34;product-image&#34; /&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;column description&#34;&gt;&#xA;        Hi, I&#39;m Ben, the craftsman behind Chonky Woodworks. With a passion for woodworking and a keen eye for detail, I create custom, handcrafted cutting boards, cheese boards, wooden side tables, and epoxy tables, all made with premium materials like walnut, maple, and other exotic woods. Each piece is uniquely designed to bring both beauty and functionality into your home, ensuring that every item is as unique and special as the moments it helps create.&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

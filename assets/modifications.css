@@ -29,6 +29,7 @@
 
 .row {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .column {
@@ -119,4 +120,31 @@ div.product-price {
 
 .primary.facebook:hover {
     background-color: #5c8efa !important;
+}
+
+@media (max-width: 768px) {
+    .row {
+        flex-direction: column;  /* Stacks the columns vertically on mobile */
+    }
+
+    .column {
+        flex: none;  /* Disable flex-grow to avoid unwanted stretching */
+        width: 100%;  /* Ensure each column takes full width */
+        padding: 0;
+    }
+
+    .description {
+        padding-left: 4em;
+        padding-right: 3em;
+        padding-bottom: 3em;
+    }
+
+    .column:nth-child(2) {
+        order: -1;  /* Make the second column appear first */
+    }
+
+    .button.fit.primary {
+        width: 100%;
+        max-width: inherit;
+    }
 }

@@ -17,6 +17,13 @@
       "weight": 10
     }
   },
+  "markup": {
+    "goldmark": {
+      "renderer": {
+        "unsafe": true
+      }
+    }
+  },
   "params": {
     "copyright": "Chonky Woodworks",
     "description": "Everyone Needs Something Chonky",

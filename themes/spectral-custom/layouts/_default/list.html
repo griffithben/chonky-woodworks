@@ -6,9 +6,13 @@
     <p>{{ . }}</p>
     {{ end }}
 	</header>
+    <section class="wrapper style5 flex-section">
+    <div class="list-container">
 		{{ range .Paginator.Pages }}
 			{{ partial "summary.html" . }}
 		{{ end }}
+    </div>
+    </section>
     {{ partial "pagination.html" . }}
 </article>
 {{ partial "footer.html" . }}

@@ -1,0 +1,18 @@
+<div class="row">
+    <div class="column images">
+        {{ range .Page.Params.images }}
+            <img alt="{{ $.Page.Title }}" src="{{ . }}" class="product-image">
+        {{ end }}
+    </div>
+    <div class="column description">
+        <h2>{{ .Page.Title }}</h2>
+        <h5>{{ .Page.Params.type }}</h5>
+        <div class="product-price">
+            ${{ .Page.Params.price }}
+        </div>
+        <p>
+            {{ .Page.Params.description }}
+        </p>
+        <a href="{{ .Page.Params.facebookUrl }}" target="_blank" class="button fit primary">Facebook</a>
+    </div>
+</div>

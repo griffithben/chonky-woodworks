@@ -9,11 +9,25 @@
     <lastBuildDate>Sat, 16 Nov 2024 14:57:57 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Henry Side Table</title>
+      <title>Henry</title>
       <link>http://localhost:1313/products/henry-side-table/</link>
       <pubDate>Sat, 16 Nov 2024 14:57:57 -0600</pubDate>
       <guid>http://localhost:1313/products/henry-side-table/</guid>
-      <description>asdf</description>
+      <description>summary text</description>
+    </item>
+    <item>
+      <title>Tiger</title>
+      <link>http://localhost:1313/products/tiger-side-table/</link>
+      <pubDate>Sat, 16 Nov 2024 14:57:57 -0600</pubDate>
+      <guid>http://localhost:1313/products/tiger-side-table/</guid>
+      <description>summary text</description>
+    </item>
+    <item>
+      <title>Wally</title>
+      <link>http://localhost:1313/products/wally-side-table/</link>
+      <pubDate>Sat, 16 Nov 2024 14:57:57 -0600</pubDate>
+      <guid>http://localhost:1313/products/wally-side-table/</guid>
+      <description>summary text</description>
     </item>
   </channel>
 </rss>

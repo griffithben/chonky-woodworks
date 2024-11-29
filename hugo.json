@@ -51,10 +51,6 @@
           "url": "/products"
         },
         {
-          "title": "Gallery",
-          "url": "/gallery"
-        },
-        {
           "title": "About",
           "url": "/about"
         },
@@ -108,17 +104,17 @@
       ]
     },
     "cta": {
-      "body": "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla.",
+      "body": "Explore our carefully crafted, high-quality wooden creations, designed to add beauty and functionality to your home.",
       "enable": true,
-      "title": "Arcue ut vel commodo",
+      "title": "Check Out Our Products",
       "link": [
         {
-          "href": "#",
+          "href": "./products",
           "special": true,
-          "text": "Activate"
+          "text": "View Products"
         },
         {
-          "href": "#",
+          "href": "./about",
           "special": false,
           "text": "Learn More"
         }
@@ -126,7 +122,7 @@
     },
     "social": {
       "dribble": "",
-      "facebook": "",
+      "facebook": "chonkywoodworks",
       "github": "",
       "instagram": "",
       "mastodon": "",

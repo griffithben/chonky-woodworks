@@ -41,7 +41,7 @@ sed -i '' -e "s|{{ .Product_path }}|$product_path|" "content/products/$product_p
 
 # Transfer and rename three image files to the product directory
 for i in 1 2 3; do
-  source_image="templates/products/template-$i.jpg" # Adjust source path if needed
+  source_image="templates/product/template-$i.jpg" # Adjust source path if needed
   destination_image="content/products/$product_path/$lowercase_title-$i.jpg"
 
   if [ -f "$source_image" ]; then

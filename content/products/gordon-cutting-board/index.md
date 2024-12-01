@@ -12,7 +12,7 @@ images = [
     './gordon-3.jpg'
 ]
 description = 'Each cutting board from Chonky Woodworks is one of a kind, uniquely named to reflect its individuality. This piece, crafted from walnut, hard maple, and padauk, measures 19" x 9.75" x 1.5" and offers a durable, spacious surface perfect for daily use or serving in style. No two boards are ever alike, making each one truly special.'
-facebookUrl = 'FB Marketplace Url'
+facebookUrl = 'https://www.facebook.com/marketplace/item/1981874095650348'
 +++
 
 {{< product >}}

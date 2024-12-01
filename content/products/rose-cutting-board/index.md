@@ -5,7 +5,7 @@ title = 'Rose'
 type = 'Cutting Board'
 summary = 'Handcrafted cutting board made from walnut, maple, and padauk, uniquely named to reflect its one-of-a-kind design. Durable and stylish, perfect for daily use or serving.'
 listImage = './rose-cutting-board/rose-1.jpg'
-price = 99
+price = 75
 images = [
     './rose-1.jpg',
     './rose-2.jpg',

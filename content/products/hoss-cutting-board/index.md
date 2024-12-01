@@ -5,7 +5,7 @@ title = 'Hoss'
 type = 'Cutting Board'
 summary = 'Handcrafted cutting board made from walnut, maple, and padauk, uniquely named to reflect its one-of-a-kind design. Durable and stylish, perfect for daily use or serving.'
 listImage = './hoss-cutting-board/hoss-1.jpg'
-price = 99
+price = 95
 images = [
     './hoss-1.jpg',
     './hoss-2.jpg',

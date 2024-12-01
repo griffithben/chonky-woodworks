@@ -5,7 +5,7 @@ title = 'Ariel'
 type = 'Cutting Board'
 summary = 'Handcrafted cutting board made from walnut, maple, and padauk, uniquely named to reflect its one-of-a-kind design. Durable and stylish, perfect for daily use or serving.'
 listImage = './ariel-cutting-board/ariel-1.jpg'
-price = 99
+price = 85
 images = [
     './ariel-1.jpg',
     './ariel-2.jpg',

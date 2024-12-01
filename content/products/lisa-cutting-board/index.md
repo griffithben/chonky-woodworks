@@ -5,7 +5,7 @@ title = 'Lisa'
 type = 'Cutting Board'
 summary = 'Handcrafted cutting board made from walnut, maple, and padauk, uniquely named to reflect its one-of-a-kind design. Durable and stylish, perfect for daily use or serving.'
 listImage = './lisa-cutting-board/lisa-1.jpg'
-price = 99
+price = 85
 images = [
     './lisa-1.jpg',
     './lisa-2.jpg',

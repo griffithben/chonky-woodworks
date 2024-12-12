@@ -5,7 +5,7 @@ title = 'Henry'
 type = 'Side Table'
 summary = 'Handcrafted black walnut and epoxy side table with blue swirls, metal hairpin legs, and a walnut, maple, and purple heart coaster'
 listImage = './henry-side-table/henry-1.jpg'
-price = 140
+price = 120
 images = [
     './henry-1.jpg',
     './henry-2.jpg',

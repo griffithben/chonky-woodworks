@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Example Use: ./create-product.sh "Lisa" "Cutting Board"
+
 # Check if both title and type were provided
 if [ -z "$1" ] || [ -z "$2" ]; then
   echo "Please provide both a title and a type."

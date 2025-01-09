@@ -5,7 +5,7 @@ title = 'Gordon'
 type = 'Cutting Board'
 summary = 'Handcrafted cutting board made from walnut, maple, and padauk, uniquely named to reflect its one-of-a-kind design. Durable and stylish, perfect for daily use or serving.'
 listImage = './gordon-cutting-board/gordon-1.jpg'
-price = 85
+price = 75
 images = [
     './gordon-1.jpg',
     './gordon-2.jpg',

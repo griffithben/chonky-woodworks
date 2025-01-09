@@ -5,7 +5,7 @@ title = 'Max'
 type = 'Cutting Board'
 summary = 'Handcrafted cutting board made from walnut, maple, and padauk, uniquely named to reflect its one-of-a-kind design. Durable and stylish, perfect for daily use or serving.'
 listImage = './max-cutting-board/max-1.jpg'
-price = 85
+price = 75
 images = [
     './max-1.jpg',
     './max-2.jpg',

@@ -5,7 +5,7 @@ title = 'Wally'
 type = 'Side Table'
 summary = 'Handcrafted walnut and oak side table with black metal hexagonal legs and a coaster made from walnut, maple, and purple heart.'
 listImage = './wally-side-table/wally-1.jpg'
-price = 75
+price = 60
 images = [
     './wally-1.jpg',
     './wally-2.jpg',

@@ -5,7 +5,7 @@ title = 'Tiger'
 type = 'Side Table'
 summary = 'Handcrafted black walnut and epoxy side table with black and gold swirls, mid-century modern legs, and a walnut, maple, and purple heart coaster.'
 listImage = './tiger-side-table/tiger-1.jpg'
-price = 120
+price = 100
 images = [
     './tiger-1.jpg',
     './tiger-2.jpg',

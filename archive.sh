@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Example Use: ./archive.sh rose-cutting-board
+
 # Check if a directory name is provided
 if [ -z "$1" ]; then
   echo "Usage: $0 <directory-name>"

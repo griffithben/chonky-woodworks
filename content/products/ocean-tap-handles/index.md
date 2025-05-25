@@ -12,7 +12,7 @@ images = [
     './ocean-3.jpg'
 ]
 description = 'These eye-catching tap handles combine rich walnut with ocean-blue epoxy for a bold, stylish finish. Perfect for home bars or breweries, they’re smooth, durable, and one-of-a-kind.'
-facebookUrl = 'FB Marketplace Url'
+facebookUrl = 'https://www.facebook.com/share/1BzPhPPiqY/'
 +++
 
 {{< product >}}

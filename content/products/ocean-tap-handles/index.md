@@ -5,7 +5,7 @@ title = 'Ocean'
 type = 'Tap Handles'
 summary = 'Handcrafted walnut and blue epoxy tap handles with a clean, modern look—each one is a unique blend of natural wood and vibrant resin.'
 listImage = './ocean-tap-handles/ocean-1.jpg'
-price = 18
+price = 15
 images = [
     './ocean-1.jpg',
     './ocean-2.jpg',

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-01T04:40:54+00:00</lastmod>
+    <lastmod>2025-05-25T02:54:14+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -20,23 +20,17 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
+    <loc>http://localhost:1313/products/betty-cutting-board/</loc>
+    <lastmod>2025-05-25T02:54:14+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/</loc>
+    <lastmod>2025-05-25T02:54:14+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/products/gordon-cutting-board/</loc>
     <lastmod>2024-12-01T04:40:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/</loc>
-    <lastmod>2024-12-01T04:40:54+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/products/max-cutting-board/</loc>
-    <lastmod>2024-12-01T04:34:06+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/products/hoss-cutting-board/</loc>
     <lastmod>2024-12-01T04:25:29+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/gallery/</loc>
-    <lastmod>2024-11-16T14:59:58-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/products/henry-side-table/</loc>
-    <lastmod>2024-11-16T14:57:57-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/products/tiger-side-table/</loc>
     <lastmod>2024-11-16T14:57:57-06:00</lastmod>

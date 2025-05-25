@@ -6,8 +6,15 @@
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Dec 2024 04:40:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 02:54:14 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Betty</title>
+      <link>http://localhost:1313/products/betty-cutting-board/</link>
+      <pubDate>Sun, 25 May 2025 02:54:14 +0000</pubDate>
+      <guid>http://localhost:1313/products/betty-cutting-board/</guid>
+      <description>Betty Summary</description>
+    </item>
     <item>
       <title>Gordon</title>
       <link>http://localhost:1313/products/gordon-cutting-board/</link>
@@ -16,32 +23,11 @@
       <description>Handcrafted cutting board made from walnut, maple, and padauk, uniquely named to reflect its one-of-a-kind design. Durable and stylish, perfect for daily use or serving.</description>
     </item>
     <item>
-      <title>Max</title>
-      <link>http://localhost:1313/products/max-cutting-board/</link>
-      <pubDate>Sun, 01 Dec 2024 04:34:06 +0000</pubDate>
-      <guid>http://localhost:1313/products/max-cutting-board/</guid>
-      <description>Handcrafted cutting board made from walnut, maple, and padauk, uniquely named to reflect its one-of-a-kind design. Durable and stylish, perfect for daily use or serving.</description>
-    </item>
-    <item>
       <title>Hoss</title>
       <link>http://localhost:1313/products/hoss-cutting-board/</link>
       <pubDate>Sun, 01 Dec 2024 04:25:29 +0000</pubDate>
       <guid>http://localhost:1313/products/hoss-cutting-board/</guid>
       <description>Handcrafted cutting board made from walnut, maple, and padauk, uniquely named to reflect its one-of-a-kind design. Durable and stylish, perfect for daily use or serving.</description>
-    </item>
-    <item>
-      <title>Gallery</title>
-      <link>http://localhost:1313/gallery/</link>
-      <pubDate>Sat, 16 Nov 2024 14:59:58 -0600</pubDate>
-      <guid>http://localhost:1313/gallery/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Henry</title>
-      <link>http://localhost:1313/products/henry-side-table/</link>
-      <pubDate>Sat, 16 Nov 2024 14:57:57 -0600</pubDate>
-      <guid>http://localhost:1313/products/henry-side-table/</guid>
-      <description>Handcrafted black walnut and epoxy side table with blue swirls, metal hairpin legs, and a walnut, maple, and purple heart coaster</description>
     </item>
     <item>
       <title>Tiger</title>

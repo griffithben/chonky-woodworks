@@ -12,7 +12,7 @@ images = [
     './maggie-3.jpg'
 ]
 description = 'This handcrafted side table features a solid maple top with smooth, rounded edges and copper-colored hairpin legs. Its clean, minimalist design pairs natural warmth with modern style, making it a versatile piece for any space. Measures 30.5" long, 14" wide, and 17.5" tall.'
-facebookUrl = 'https://www.facebook.com/share/1FBuUdmv1r/'
+facebookUrl = 'https://www.facebook.com/marketplace/item/1780819625880043'
 +++
 
 {{< product >}}

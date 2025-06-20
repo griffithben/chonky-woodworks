@@ -11,7 +11,7 @@ images = [
     './wally-2.jpg',
     './wally-3.jpg'
 ]
-description = 'A handcrafted solid walnut and oak side table with black metal hexagonal legs.  Table top is roughly 18” x 12” and sits about 17.5” tall.  Perfect for a side table next to a couch or recliner!  Coaster made from walnut, maple and purple heart included.'
+description = 'A handcrafted solid walnut and oak side table with black metal hexagonal legs.  Table top is roughly 17.5” x 12” and sits about 17.5” tall.  Perfect for a side table next to a couch or recliner!'
 facebookUrl = 'https://www.facebook.com/marketplace/item/579876431218898'
 +++
 

@@ -6,14 +6,21 @@
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Jun 2025 16:31:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 16:40:21 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bob</title>
+      <link>http://localhost:1313/products/bob-cutting-board/</link>
+      <pubDate>Fri, 04 Jul 2025 16:40:21 +0000</pubDate>
+      <guid>http://localhost:1313/products/bob-cutting-board/</guid>
+      <description>Handcrafted cutting board made from walnut, cherry, and padauk, uniquely named to reflect its one-of-a-kind design. Durable and stylish, perfect for daily use or serving.</description>
+    </item>
     <item>
       <title>Deep</title>
       <link>http://localhost:1313/products/deep-tap-handles/</link>
       <pubDate>Fri, 20 Jun 2025 16:31:45 +0000</pubDate>
       <guid>http://localhost:1313/products/deep-tap-handles/</guid>
-      <description>Deep Summary</description>
+      <description>A unique pair of tap handles that are made with a deep blue epoxy for an eye-catching satin finish.</description>
     </item>
     <item>
       <title>Maggie</title>
@@ -34,13 +41,6 @@
       <link>http://localhost:1313/products/gordon-cutting-board/</link>
       <pubDate>Sun, 01 Dec 2024 04:40:54 +0000</pubDate>
       <guid>http://localhost:1313/products/gordon-cutting-board/</guid>
-      <description>Handcrafted cutting board made from walnut, maple, and padauk, uniquely named to reflect its one-of-a-kind design. Durable and stylish, perfect for daily use or serving.</description>
-    </item>
-    <item>
-      <title>Hoss</title>
-      <link>http://localhost:1313/products/hoss-cutting-board/</link>
-      <pubDate>Sun, 01 Dec 2024 04:25:29 +0000</pubDate>
-      <guid>http://localhost:1313/products/hoss-cutting-board/</guid>
       <description>Handcrafted cutting board made from walnut, maple, and padauk, uniquely named to reflect its one-of-a-kind design. Durable and stylish, perfect for daily use or serving.</description>
     </item>
     <item>

@@ -12,7 +12,7 @@ images = [
     './deep-3.jpg'
 ]
 description = 'A unique pair of tap handles that are made with a deep blue epoxy for an eye-catching satin finish. Perfect for home bars or breweries, they’re smooth, durable, and one-of-a-kind.'
-facebookUrl = 'https://www.facebook.com/marketplace/item/741327598334526'
+facebookUrl = 'https://www.facebook.com/marketplace/item/4167320303546423'
 +++
 
 {{< product >}}

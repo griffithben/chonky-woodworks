@@ -5,7 +5,7 @@ title = 'Deep'
 type = 'Tap Handles'
 summary = 'A unique pair of tap handles that are made with a deep blue epoxy for an eye-catching satin finish.'
 listImage = './deep-tap-handles/deep-1.jpg'
-price = '30 + Free Shipping'
+price = '30'
 images = [
     './deep-1.jpg',
     './deep-2.jpg',

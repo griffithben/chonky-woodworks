@@ -1,6 +1,6 @@
 <div class="inner list-item">
     <a href="{{ .Permalink }}">
-    <h2>{{ .Title }}</h2>
+    <h2>{{ .Title }} - ${{ .Params.price }}</h2>
     <h6>{{ .Params.type }}</h6>
     <div class="square-container">
         <img src="{{ .Params.listImage }}" alt="{ .Title }}" />

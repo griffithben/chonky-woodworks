@@ -12,7 +12,7 @@ images = [
     './wally-3.jpg'
 ]
 description = 'A handcrafted solid walnut and oak side table with black metal hexagonal legs.  Table top is roughly 17.5” x 12” and sits about 17.5” tall.  Perfect for a side table next to a couch or recliner!'
-facebookUrl = 'https://www.facebook.com/marketplace/item/625829816687367'
+facebookUrl = 'https://www.facebook.com/marketplace/item/1107340744675440/'
 +++
 
 {{< product >}}

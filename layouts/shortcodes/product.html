@@ -11,7 +11,7 @@
             ${{ .Page.Params.price }}
         </div>
         <p>
-            {{ .Page.Params.description }}
+            {{ .Page.Params.description | safeHTML }}
         </p>
         <a href="{{ .Page.Params.facebookUrl }}" target="_blank" class="button fit primary facebook">Facebook Marketplace</a>
         <a href="mailto:chonkywoodworks@gmail.com?subject=Interested in {{ .Page.Title }} the {{ .Page.Params.type }}" target="_blank" class="button fit primary">Email Directly</a>

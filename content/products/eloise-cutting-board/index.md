@@ -24,7 +24,7 @@ Elevate your kitchen with this one-of-a-kind handmade cutting board crafted from
 </ul>
 Perfect for prepping, serving, or displaying as a centerpiece in your kitchen. No two boards are ever the same, making this a truly unique piece.
 """
-facebookUrl = 'FB Marketplace Url'
+facebookUrl = 'https://www.facebook.com/marketplace/item/1349595230100114'
 +++
 
 {{< product >}}
